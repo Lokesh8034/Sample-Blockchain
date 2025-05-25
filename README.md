@@ -1,7 +1,3 @@
-Here’s a structured **README.md** file for your blockchain project, including setup instructions and how to test it using **Postman**.
-
----
-
 # **Blockchain Demo Project**
 
 ## **Overview**
@@ -75,5 +71,3 @@ This project is licensed under the **MIT License**.
 - **Lokesh8034** - Blockchain Developer
 
 ---
-
-This README makes your project easy to understand and execute. Let me know if you’d like refinements! 🚀
